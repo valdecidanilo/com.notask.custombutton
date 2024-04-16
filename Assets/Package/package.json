@@ -1,0 +1,13 @@
+{
+  "name": "com.notask.custombutton",
+  "version": "1.0.0",
+  "displayName": "CustomButton",
+  "description": "custom button",
+  "unity": "2022.3",
+  "keywords": [],
+  "author": {
+    "name": "valdeci danilo",
+    "email": "valdecidanilo@live.com"
+  },
+  "dependencies": {}
+}
