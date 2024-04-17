@@ -9,5 +9,7 @@
     "name": "valdeci danilo",
     "email": "valdecidanilo@live.com"
   },
-  "dependencies": {}
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  }
 }
